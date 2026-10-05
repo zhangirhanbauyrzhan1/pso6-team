@@ -1,3 +1,3 @@
 Team members: zhangirhanbauyrzhan1
 Favorite programming language: TBD
-Team motto: Commit early, commit often
+Team motto: Commit early, and it works on my machine
